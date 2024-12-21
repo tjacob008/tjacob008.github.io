@@ -6,11 +6,11 @@
 - B.S.E., Electrical Engineering | University of Pennsylvania (_May 2028_)
 
 ## Experience
-**Independent Researcher in Biomedical Engineering (_October 2022 - June 2024_)**
+**Independent Researcher in Biomedical Engineering (_Oct 2022 - June 2024_)**
 - Constructed an Arduino-based intraocular pressure (IOP) measurement setup and wrote an algorithm to measure the pressure of a biomechanical eye model.
 - Designed, built, and tested finger-tip sensor for IOP measurement, a novel finger-tip pressure sensor, _TonoSense_ ($18) for early detection of Glaucoma.
 
-**Astronomy Research Fellow @ Yale University (_June 2023 - August 2023_)**
+**Astronomy Research Fellow @ Yale University (_June 2023 - Aug 2023_)**
 - Captured images and conducted photometry of Type Ia Supernova 2023kuy using Leitner Observatory's 16" RCOS telescope.
 - Performed photometric and spectroscopic analysis, extracting the light curve to identify a distant supernova.
 ## Projects
