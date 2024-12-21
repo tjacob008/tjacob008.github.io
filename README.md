@@ -1,4 +1,4 @@
-# Data Scientist
+# Electrical Engineer
 
 #### Technical Skills: Python, HTML, CSS, Java, C++
 
