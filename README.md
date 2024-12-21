@@ -6,7 +6,7 @@
 - B.S.E., Electrical Engineering | University of Pennsylvania (_May 2028_)
 
 ## Experience
-**Independent Researcher in Biomedical Engineering (_Oct 2022 - June 2024_)**
+**Independent Biomedical Engineering Researcher (_Oct 2022 - June 2024_)**
 - Constructed an Arduino-based intraocular pressure (IOP) measurement setup and wrote an algorithm to measure the pressure of a biomechanical eye model.
 - Designed, built, and tested finger-tip sensor for IOP measurement, a novel finger-tip pressure sensor, _TonoSense_ ($18) for early detection of Glaucoma.
 
