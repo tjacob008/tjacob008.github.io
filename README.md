@@ -13,6 +13,7 @@
 **Astronomy Research Fellow @ Yale University (_June 2023 - Aug 2023_)**
 - Captured images and conducted photometry of Type Ia Supernova 2023kuy using Leitner Observatory's 16" RCOS telescope.
 - Performed photometric and spectroscopic analysis, extracting the light curve to identify a distant supernova.
+
 ## Projects
 ### _DropWise_: Automatic Water Dispensing System
 [Publication](https://www.mdpi.com/1424-8220/22/8/3048)
